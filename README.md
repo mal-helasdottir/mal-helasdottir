@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('ko-fi?', '#8637a8', 'F1F8485KI');kofiwidget2.draw();</script> 
   </head>
   <body>
     <p>
