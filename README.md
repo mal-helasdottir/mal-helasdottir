@@ -11,6 +11,7 @@
 <hr>
 <p align="center">✨<a href="http://mare-stellarum.uwu.ai">web</a> || <a href="http://www.twitter.com/mare_stellarum">twitter</a> || <a href="https://discordapp.com/users/mal-helasdottir#9354">discord</a> || <a href="https://ko-fi.com/mare_stellarum">ko-fi</a>✨</p>
     </p>
+    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F8485KI)
     <hr>
   </body>
 </html>
