@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('ko-fi?', '#8637a8', 'F1F8485KI');kofiwidget2.draw();</script> 
   </head>
   <body>
     <p>
     <ul>👋 Hi, I’m @mal-helasdottir.✨</ul>
     <ul>👀 I’m interested in learning new things and growing as a writer and a person!</ul>
-    <ul>🌱 I’m currently learning css, html, and javascript.</ul>
+    <ul>🌱 I’m currently learning markdown, css, html, and javascript.</ul>
     </p>
 <hr>
 <p align="center">✨<a href="http://mare-stellarum.uwu.ai">web</a> || <a href="http://www.twitter.com/mare_stellarum">twitter</a> || <a href="https://discordapp.com/users/mal-helasdottir#9354">discord</a> || <a href="https://ko-fi.com/mare_stellarum">ko-fi</a>✨</p>
     </p>
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F8485KI)
     <hr>
   </body>
 </html>
