@@ -21,6 +21,6 @@ You can click the Preview link to take a look at your changes.
     <hr>
   </body>
   <foot>
-  <p align="center">✨<a href="https://mal-helasdottir.carrd.co/">web</a> || <a href="http://www.twitter.com/mare_stellarum">twitter</a> || <a href="https://discordapp.com/users/mal-helasdottir#9354">discord</a> || <a href="https://ko-fi.com/mare_stellarum">ko-fi</a> || <a href="https://github.com/mal-helasdottir/mal-helasdottir/edit/main/README.md#-hi-im-mal-helasdottir">top</a>✨</p>
+  <p align="center">✨<a href="http://www.twitter.com/mal_eficarum">twitter</a> || <a href="https://discordapp.com/users/mal-helasdottir#9354">discord</a> || <a href="https://ko-fi.com/mare_stellarum">ko-fi</a> || <a href="https://github.com/mal-helasdottir/mal-helasdottir/edit/main/README.md#-hi-im-mal-helasdottir">top</a>✨</p>
   </foot>
 </html>
